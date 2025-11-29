@@ -28,6 +28,6 @@ Pour lancer la simulation :
 - Capteur de pouls (Pulse Sensor)
 - Câblage virtuel via Wokwi
 
-## Structure recommandée pour GitHub
+
 
 
