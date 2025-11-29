@@ -6,9 +6,10 @@ Le projet est développé et simulé sur **Wokwi**.
 
 ## Fonctionnalités
 - Lecture des données du capteur de pouls
-- Affichage sur console ou écran simulé
+- Affichage sur LCD
 - Alertes en cas de dépassement de seuils
 - Simulation complète sur Wokwi pour test du système
+- Visualisation de données sur ThingSpeak
 
 ## Contenu du dépôt
 - `sketch.ino` : code principal Arduino/ESP32
@@ -27,6 +28,7 @@ Pour lancer la simulation :
 - ESP32 DevKit
 - Capteur de pouls (Pulse Sensor)
 - Câblage virtuel via Wokwi
+
 
 
 
